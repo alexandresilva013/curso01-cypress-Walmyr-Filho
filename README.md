@@ -1,12 +1,9 @@
 # Testes automatizados com Cypress - Básico
 
-👋 Seja bem-vindo(a)!
+Este excelente curso do mestre Walmyr Filho me ajudou a consolidar meus conhecimentos básicos em Cypress. 
+Foram várias aulas interessantes e neste repositório deixo meu trabalho realizado durante o curso com algumas modificações e várias anotações.
 
-É muito bom tê-lo(a) aqui. Tenho certeza que você vai adorar este curso. ❤️
-
-## O que você vai aprender
-
-Durante o curso de testes automatizados com Cypress (básico), você vai aprender:
+## O que eu aprendi durante o curso
 
 - Como configurar um projeto Cypress do zero
 - Como visitar páginas locais e remotas
@@ -16,14 +13,11 @@ Durante o curso de testes automatizados com Cypress (básico), você vai aprende
 - Como criar comandos customizados
 - Como lidar com links que abrem em outra aba do navegador
 - Como rodar testes simulando as dimensões de um dispositivo móvel
-- Como resolver os mesmos problemas de diferentes formas, conhecendo a [API do Cypress](https://docs.cypress.io/api/table-of-contents)
+- Como resolver os mesmos problemas de diferentes formas, conhecendo a API do Cypress
 - Como executar os testes em um _pipeline_ de integração contínua sempre que mudanças ocorrerem no código da aplicação (ou dos testes)
 - Como criar uma documentação mínima para seu projeto de testes automatizados
 
-## Vamos começar?
+## Finalização
+Deixo aqui meus agradecimentos ao mestre Walmyr e o [link](https://www.udemy.com/course/testes-automatizados-com-cypress-basico/) para quem desejar fazer este excelente curso
 
-Vá para a seção [estrutura do curso](./lessons/_course-structure_.md).
-
-___
-
-Este é mais um curso da [**Escola Talking About Testing**](https://udemy.com/user/walmyr).
+Sigo estudando e vamos para o próximo passo (Intermediário)
