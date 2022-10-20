@@ -21,3 +21,5 @@ Foram várias aulas interessantes e neste repositório deixo meu trabalho realiz
 Deixo aqui meus agradecimentos ao mestre Walmyr e o [link](https://www.udemy.com/course/testes-automatizados-com-cypress-basico/) para quem desejar fazer este excelente curso
 
 Sigo estudando e vamos para o próximo passo (Intermediário)
+
+Para dúvidas ou sugestões só enviar uma mensagem pelo [linkedin](https://www.linkedin.com/in/alexandre-silva-2297066a/)
